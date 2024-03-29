@@ -1,0 +1,6 @@
+Class_1C,Class_1B,Free,Free,Free,Class_1A
+Class_1C,Free,Free,Class_1A,Class_1B,Free
+Class_1A,Class_1C,Free,Free,Free,Class_1B
+Class_1B,Free,Class_1A,Free,Class_1C,Free
+Class_1C,Class_1B,Free,Class_1A,Free,Free
+Free,Free,Free,Class_1B,Class_1C,Class_1A
